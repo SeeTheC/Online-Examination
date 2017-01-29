@@ -9,7 +9,9 @@ Framework: Visual Basic 5.0                             *
 Installation:
 
 1.goto setup folder
+
 2.run setup.exe
+
 3.Install "EXAM TIME"
 
 **************************************************************************
@@ -17,13 +19,15 @@ Installation:
 After Installation:
 
 1.Extract db.rar in \setup\support folder
+
 2.Load these text files in Oracle 10g 'pro' user wuth password 'pro'
 **************************************************************************
 
 Running:
 
 1.Open examtime.exe or teFinal.exe
-2.That's it...:-)
+
+2.That's it :)
 
 **************************************************************************
 
